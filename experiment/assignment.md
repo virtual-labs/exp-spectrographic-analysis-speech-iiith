@@ -1,5 +1,3 @@
-### Assignment
-
 1. What should be the number of NFFT points relative to derive narrow and wideband spectrograms?
 
 2. Explain how one can measure the fundamental frequency and fundamental period from the spectrogram.

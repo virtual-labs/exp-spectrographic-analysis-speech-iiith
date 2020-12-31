@@ -1,6 +1,3 @@
-### Experiment
-
-
 - Wideband spectrogram provides higher temporal resolution at the cost of spectral resolution.
 
 - Narrowband spectrogram provides higher spectral resolution at the cost of spectral resolution.

@@ -1,5 +1,3 @@
-### Procedure
-
 ### Part 1:
 
 - Step1: Choose an example from one of the languages provided
