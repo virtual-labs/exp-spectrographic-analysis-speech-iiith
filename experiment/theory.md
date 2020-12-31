@@ -32,76 +32,88 @@ Figure 2: Speech waveform and its wideband spectrogram for the utterance âk
 
 Table 1: Time varying excitation characteristics from spectrogram
 
-/k/: Silence bar before the burst is observed as no frequency components.
+**/k/:** Silence bar before the burst is observed as no frequency components.
 
-/i/ : Vocal folds vibration can be observed interms of pitch harmonics (vertical striations) in spectrogram.
+**/i/ :** Vocal folds vibration can be observed interms of pitch harmonics (vertical striations) in spectrogram.
 
-/t/ : Silence bar before the burst is observed as no frequency components.
+**/t/ :** Silence bar before the burst is observed as no frequency components.
+ 
+**/A/ :** Vocal folds vibration can be observed interms of pitch harmonics (vertical striations) in spectrogram.
 
-/A/ : Vocal folds vibration can be observed interms of pitch harmonics (vertical striations) in spectrogram.
+**/b/ :** Vocal folds vibration and closure at lips is observed as pitch harmonics at low frequency portion of the spectrogram.
 
-/b/ : Vocal folds vibration and closure at lips is observed as pitch harmonics at low frequency portion of the spectrogram.
+**/m/ :** Vocal folds vibration, closure at lips and opening of velum is observed as pitch harmonics at low frequency portion of the spectrogram.
 
-/m/ : Vocal folds vibration, closure at lips and opening of velum is observed as pitch harmonics at low frequency portion of the spectrogram.
+**/E/ :** Vocal folds vibration can be observed interms of pitch harmonics (vertical striations) in spectrogram.
 
-/E/ : Vocal folds vibration can be observed interms of pitch harmonics (vertical striations) in spectrogram.
+**j/ :** Vocal folds vibration and closure at palatal is observed as pitch harmonics at high frequency portion of the spectrogram.
 
-/j/ : Vocal folds vibration and closure at palatal is observed as pitch harmonics at high frequency portion of the spectrogram.
+**/p/ :**  Silence bar before the burst is observed as no frequency components.
 
-/p/ :  Silence bar before the burst is observed as no frequency components.
+**/r/ :** Vocal folds vibration and narrow opening at alveolar ridge is observed as pitch harmonics at lower formants in spectrogram.
 
-/r/ : Vocal folds vibration and narrow opening at alveolar ridge is observed as pitch harmonics at lower formants in spectrogram.
+**/h/ :** No pitch harmonics are observed in spectrogram due random nature in time domain.
 
-/h/ : No pitch harmonics are observed in spectrogram due random nature in time domain.
-
-/ai/ : Vocal folds vibration can be observed interms of pitch harmonics (vertical striations) in spectrogram.
+**/ai/ :** Vocal folds vibration can be observed interms of pitch harmonics (vertical striations) in spectrogram.
 
 
 Table 2: Time varying system characteristics from spectrogram
 
-/k/ : Complete closure at velum and release of constriction at velar position are the system characteristics, these are observed in spectrogram as silence bar followed by energy at high frequency components (1700-4000 Hz).
+**/k/ :** Complete closure at velum and release of constriction at velar position are the system characteristics, these are observed in spectrogram as silence bar followed by energy at high frequency components (1700-4000 Hz).
 
-/i/ : Tongue hump at front position of the vocal tract system and narrow opening of oral cavity is observed in spectrogram as regular formant structure and the formant frequencies observed to be \(F_1\)=320 Hz,\(F_2\)=1960 Hz and \(F_3\)=2530 Hz.
+**/i/ :** Tongue hump at front position of the vocal tract system and narrow opening of oral cavity is observed in spectrogram as regular formant structure and the formant frequencies observed to be \(F_1\)=320 Hz,\(F_2\)=1960 Hz and \(F_3\)=2530 Hz.
 
-/t/ : Complete closure at dental region and release of constriction at dental position are the system characteristics, these are observed in spectrogram as silence bar followed by energy at high frequency components. But the energy of the high frequency components has lower compared to /k/.
+**/t/ :** Complete closure at dental region and release of constriction at dental position are the system characteristics, these are observed in spectrogram as silence bar followed by energy at high frequency components. But the energy of the high frequency components has lower compared to /k/.
 
-/A/ : Tongue hump at central position of the vocal tract system and wide opening of oral cavity is observed in spectrogram as regular formant structure and the formant frequencies observed to be \(F_1\)=640 Hz,\(F_2\)=1400 Hz and \(F_3\)=2610 Hz.
+**/A/ :** Tongue hump at central position of the vocal tract system and wide opening of oral cavity is observed in spectrogram as regular formant structure and the formant frequencies observed to be \(F_1\)=640 Hz,\(F_2\)=1400 Hz and \(F_3\)=2610 Hz.
 
-/b/ : Closure at lips and radiation from cheeks and jaws is observed in spectrogram as low frequency components (less than 400 Hz).
+**/b/ :** Closure at lips and radiation from cheeks and jaws is observed in spectrogram as low frequency components (less than 400 Hz).
 
-/m/ : Opening of velum and closure at lips are the system characteristics and in spectrogram formant structure is observed, and the energy associated to the formants is observed to be much lower (around 25db less) compared to normal vowels. This formant structure may be due to the influence of its following vowel (/E/).
+**/m/ :** Opening of velum and closure at lips are the system characteristics and in spectrogram formant structure is observed, and the energy associated to the formants is observed to be much lower (around 25db less) compared to normal vowels. This formant structure may be due to the influence of its following vowel (/E/).
 
-/E/ : Tongue hump at front position of the vocal tract system and moderate opening of oral cavity is observed in spectrogram as regular formant structure and the formant frequencies observed to be \(F_1\)=520 Hz,\(F_2\)=1880 Hz and \(F_3\)=2440 Hz.
+**/E/ :** Tongue hump at front position of the vocal tract system and moderate opening of oral cavity is observed in spectrogram as regular formant structure and the formant frequencies observed to be \(F_1\)=520 Hz,\(F_2\)=1880 Hz and \(F_3\)=2440 Hz.
 
-/j/ : In spectrogram a short discontinuity in formant structure is observed due to silence bar of the sound /j/. High frequency spectrum contains more energy over low frequency components. The influence of /E/ is observed in the spectrum of /j/ in the form of regular formants.
+**/j/ :** In spectrogram a short discontinuity in formant structure is observed due to silence bar of the sound /j/. High frequency spectrum contains more energy over low frequency components. The influence of /E/ is observed in the spectrum of /j/ in the form of regular formants.
 
-/p/ : Closure of lips is the system characteristics, in spectrogram no significant frequency spectrum is observed.
+**/p/ :** Closure of lips is the system characteristics, in spectrogram no significant frequency spectrum is observed.
 
-/a/ : Tongue hump at central position of the vocal tract system and wide opening of oral cavity is observed in spectrogram as regular formant structure and the formant frequencies observed to be \(F_1\)=680 Hz,\(F_2\)=1320 Hz and \(F_3\)=2280 Hz.
+**/a/ :** Tongue hump at central position of the vocal tract system and wide opening of oral cavity is observed in spectrogram as regular formant structure and the formant frequencies observed to be \(F_1\)=680 Hz,\(F_2\)=1320 Hz and \(F_3\)=2280 Hz.
 
-/r/ : Narrow opening at alveolar ridge is the system characteristics, in spectrogram only two formants are observed \(F_1\)=520 Hz and \(F_2\)=1400 Hz. Intensity of these formants are less (about 30 db lower than the normal formants intensity).
+**/r/ :** Narrow opening at alveolar ridge is the system characteristics, in spectrogram only two formants are observed \(F_1\)=520 Hz and \(F_2\)=1400 Hz. Intensity of these formants are less (about 30 db lower than the normal formants intensity).
 
-/h/ : Narrow constriction at velum, in spectrogram due to coarticulation a thin traces of first two formants is observed. Some discontinuities are also observed in these two formants. The energy associated to these formants is very less. In general for the sound unit /h/ no significant frequency components are observed.
+**/h/ :** Narrow constriction at velum, in spectrogram due to coarticulation a thin traces of first two formants is observed. Some discontinuities are also observed in these two formants. The energy associated to these formants is very less. In general for the sound unit /h/ no significant frequency components are observed.
 
-/ai/ : Tongue hump initially observed at central (due to /a/)and later at front position (due to /i/) of the vocal tract, oral cavity is initially wide opened and gradually reaches to narrow opening at the end of the sound unit. In spectrogram regular formant structure is observed. As the sound unit is diphthong, a clear transition of the formant structure of vowel /a/ to vowel /i/ is observed. The formants at the initial region are found to be \(F_1\)=680 Hz, \(F_2\)=1720 Hz and \(F_3\)=2400 Hz, and at the final region \(F_1\)=280 Hz, \(F_2\)=2040 Hz and \(F_3\)=2520 Hz.
+**/ai/ :** Tongue hump initially observed at central (due to /a/)and later at front position (due to /i/) of the vocal tract, oral cavity is initially wide opened and gradually reaches to narrow opening at the end of the sound unit. In spectrogram regular formant structure is observed. As the sound unit is diphthong, a clear transition of the formant structure of vowel /a/ to vowel /i/ is observed. The formants at the initial region are found to be \(F_1\)=680 Hz, \(F_2\)=1720 Hz and \(F_3\)=2400 Hz, and at the final region \(F_1\)=280 Hz, \(F_2\)=2040 Hz and \(F_3\)=2520 Hz.
 
 
 Table 3: Spectral details for different sound units
-Sound unit 	Spectrogram details
-a 	Regular formant structure (730, 1090, 2440), pitch harmonics.
-A 	Regular formant structure (520, 1190, 2390), pitch harmonics.
-i 	Regular formant structure (270, 2290, 3010), pitch harmonics.
-I
 
-Regular formant structure (390, 1990, 2550), pitch harmonics.
+Sound unit 	Spectrogram details
+
+a 	Regular formant structure (730, 1090, 2440), pitch harmonics.
+
+A 	Regular formant structure (520, 1190, 2390), pitch harmonics.
+
+i 	Regular formant structure (270, 2290, 3010), pitch harmonics.
+
+I  Regular formant structure (390, 1990, 2550), pitch harmonics.
+
 u 	Regular formant structure (300, 870, 2240), pitch harmonics.
+
 U 	Regular formant structure (440, 1020, 2240), pitch harmonics.
+
 e 	Regular formant structure (530, 1840, 2480), pitch harmonics.
+
 E 	Regular formant structure (660, 1720, 2410), pitch harmonics.
+
 o 	Regular formant structure (570, 840, 2410), pitch harmonics.
+
 m,n 	Concentration of energy in low frequencies and midrange frequencies (nasals) with no prominent peaks, and with pitch harmonics.
+
 s,sh 	Concentration of high frequency energies.
+
 k,ch,T,t,p 	Concentration of high frequency energy.
+
 g,j,D,d,b 	Concentration of low frequency energy.
 
 
