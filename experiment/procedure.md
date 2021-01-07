@@ -1,4 +1,4 @@
-### Part 1:
+**Part 1:**
 
 - Step1: Choose an example from one of the languages provided
 
@@ -16,7 +16,7 @@
 
 - Step8: Write a brief note on the observations.
 
-### Part 2:
+**Part 2:**
 
 - Step1: Choose an example from one of the languages provided.
 
