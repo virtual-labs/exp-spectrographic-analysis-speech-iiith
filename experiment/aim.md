@@ -1,1 +1,1 @@
-### Aim of the experiment
+The objective of this experiment is to observe the spectrographic characteristics of voiced, unvoiced and plosive sounds. This is achieved through computing wideband and narrowband spectrograms, observing the effect of window size and shift, and studying the features of speech from spectrogram (fundamental frequency and formants). 
