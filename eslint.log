@@ -1,0 +1,537 @@
+
+/home/runner/work/exp-spectrographic-analysis-speech-iiith/exp-spectrographic-analysis-speech-iiith/experiment/simulation/js/bootstrap.js
+    17:3  warning  'jQuery' is not defined                                     no-undef
+    77:3  warning  'jQuery' is not defined                                     no-undef
+   172:3  warning  'jQuery' is not defined                                     no-undef
+   293:3  warning  'jQuery' is not defined                                     no-undef
+   531:3  warning  'jQuery' is not defined                                     no-undef
+   661:7  warning  Unexpected newline between object and [ of property access  no-unexpected-multiline
+   743:3  warning  'jQuery' is not defined                                     no-undef
+   909:3  warning  'jQuery' is not defined                                     no-undef
+  1247:3  warning  'jQuery' is not defined                                     no-undef
+  1762:3  warning  'jQuery' is not defined                                     no-undef
+  1871:3  warning  'jQuery' is not defined                                     no-undef
+  2044:3  warning  'jQuery' is not defined                                     no-undef
+  2200:3  warning  'jQuery' is not defined                                     no-undef
+  2363:3  warning  'jQuery' is not defined                                     no-undef
+
+/home/runner/work/exp-spectrographic-analysis-speech-iiith/exp-spectrographic-analysis-speech-iiith/experiment/simulation/js/bootstrap.min.js
+  6:285    warning  'jQuery' is not defined                 no-undef
+  6:1041   warning  'jQuery' is not defined                 no-undef
+  6:1975   warning  'jQuery' is not defined                 no-undef
+  6:3839   warning  'jQuery' is not defined                 no-undef
+  6:7882   warning  'jQuery' is not defined                 no-undef
+  6:11250  warning  'jQuery' is not defined                 no-undef
+  6:13595  warning  'jQuery' is not defined                 no-undef
+  6:19576  warning  'jQuery' is not defined                 no-undef
+  6:27121  warning  'a' is assigned a value but never used  no-unused-vars
+  6:28444  warning  'jQuery' is not defined                 no-undef
+  6:30033  warning  'jQuery' is not defined                 no-undef
+  7:416    warning  'jQuery' is not defined                 no-undef
+  7:2236   warning  'jQuery' is not defined                 no-undef
+  7:4649   warning  'jQuery' is not defined                 no-undef
+
+/home/runner/work/exp-spectrographic-analysis-speech-iiith/exp-spectrographic-analysis-speech-iiith/experiment/simulation/js/custom.js
+   8:1   warning  '$' is not defined  no-undef
+   9:5   warning  '$' is not defined  no-undef
+  10:23  warning  '$' is not defined  no-undef
+  11:9   warning  '$' is not defined  no-undef
+  12:24  warning  '$' is not defined  no-undef
+  19:1   warning  '$' is not defined  no-undef
+  20:5   warning  '$' is not defined  no-undef
+  21:9   warning  '$' is not defined  no-undef
+  21:72  warning  '$' is not defined  no-undef
+  23:9   warning  '$' is not defined  no-undef
+  25:9   warning  '$' is not defined  no-undef
+  30:1   warning  '$' is not defined  no-undef
+  35:1   warning  '$' is not defined  no-undef
+  36:5   warning  '$' is not defined  no-undef
+
+/home/runner/work/exp-spectrographic-analysis-speech-iiith/exp-spectrographic-analysis-speech-iiith/experiment/simulation/js/dup_java.js
+    1:18  warning  'WaveSurfer' is not defined                     no-undef
+   10:9   warning  'WaveSurfer' is not defined                     no-undef
+   15:9   warning  'WaveSurfer' is not defined                     no-undef
+   25:10  warning  'clearcontent' is defined but never used        no-unused-vars
+   30:32  warning  'WaveSurfer' is not defined                     no-undef
+   38:10  warning  'zoom' is defined but never used                no-unused-vars
+   42:10  warning  'playButton' is defined but never used          no-unused-vars
+   46:10  warning  'LoadExperiment' is defined but never used      no-unused-vars
+   50:10  warning  'hideDiv' is defined but never used             no-unused-vars
+   58:5   warning  'content1sy4' is defined but never used         no-unused-vars
+   60:10  warning  'preload' is defined but never used             no-unused-vars
+   61:16  warning  'loadStrings' is not defined                    no-undef
+   62:16  warning  'loadStrings' is not defined                    no-undef
+   63:16  warning  'loadStrings' is not defined                    no-undef
+   64:16  warning  'loadStrings' is not defined                    no-undef
+   65:19  warning  'loadStrings' is not defined                    no-undef
+   66:19  warning  'loadStrings' is not defined                    no-undef
+   67:19  warning  'loadStrings' is not defined                    no-undef
+   68:5   warning  'content4syl' is not defined                    no-undef
+   68:19  warning  'loadStrings' is not defined                    no-undef
+   69:19  warning  'loadStrings' is not defined                    no-undef
+   70:19  warning  'loadStrings' is not defined                    no-undef
+   71:19  warning  'loadStrings' is not defined                    no-undef
+   72:19  warning  'loadStrings' is not defined                    no-undef
+   73:19  warning  'loadStrings' is not defined                    no-undef
+   74:19  warning  'loadStrings' is not defined                    no-undef
+   75:19  warning  'loadStrings' is not defined                    no-undef
+   76:19  warning  'loadStrings' is not defined                    no-undef
+   79:10  warning  'setup' is defined but never used               no-unused-vars
+   80:5   warning  'noCanvas' is not defined                       no-undef
+  124:10  warning  'loadSubword' is defined but never used         no-unused-vars
+  193:10  warning  'verify_ans' is defined but never used          no-unused-vars
+  194:32  warning  Unnecessary semicolon                           no-extra-semi
+  207:9   warning  'new_table' is assigned a value but never used  no-unused-vars
+  216:35  warning  'tr' is not defined                             no-undef
+  220:21  warning  'tr' is not defined                             no-undef
+  220:36  warning  'td' is not defined                             no-undef
+  227:29  warning  'td' is not defined                             no-undef
+  231:29  warning  'td' is not defined                             no-undef
+  237:29  warning  'td' is not defined                             no-undef
+  243:33  warning  'td' is not defined                             no-undef
+  247:37  warning  'result_html' is already defined                no-redeclare
+  248:33  warning  'td' is not defined                             no-undef
+  260:35  warning  'tr' is not defined                             no-undef
+  261:21  warning  'fields' is already defined                     no-redeclare
+  263:25  warning  'i' is already defined                          no-redeclare
+  264:21  warning  'tr' is not defined                             no-undef
+  264:36  warning  'td' is not defined                             no-undef
+  268:33  warning  'begin' is already defined                      no-redeclare
+  269:33  warning  'end' is already defined                        no-redeclare
+  270:29  warning  'td' is not defined                             no-undef
+  274:29  warning  'td' is not defined                             no-undef
+  280:29  warning  'td' is not defined                             no-undef
+  285:37  warning  'result_html' is already defined                no-redeclare
+  286:33  warning  'td' is not defined                             no-undef
+  290:37  warning  'result_html' is already defined                no-redeclare
+  291:33  warning  'td' is not defined                             no-undef
+  303:35  warning  'tr' is not defined                             no-undef
+  304:21  warning  'fields' is already defined                     no-redeclare
+  306:25  warning  'i' is already defined                          no-redeclare
+  307:21  warning  'tr' is not defined                             no-undef
+  307:36  warning  'td' is not defined                             no-undef
+  311:33  warning  'begin' is already defined                      no-redeclare
+  312:33  warning  'end' is already defined                        no-redeclare
+  313:29  warning  'td' is not defined                             no-undef
+  317:29  warning  'td' is not defined                             no-undef
+  323:29  warning  'td' is not defined                             no-undef
+  328:37  warning  'result_html' is already defined                no-redeclare
+  329:33  warning  'td' is not defined                             no-undef
+  333:37  warning  'result_html' is already defined                no-redeclare
+  334:33  warning  'td' is not defined                             no-undef
+  344:31  warning  'content4syl' is not defined                    no-undef
+  345:35  warning  'tr' is not defined                             no-undef
+  346:21  warning  'fields' is already defined                     no-redeclare
+  346:30  warning  'content4syl' is not defined                    no-undef
+  348:25  warning  'i' is already defined                          no-redeclare
+  349:21  warning  'tr' is not defined                             no-undef
+  349:36  warning  'td' is not defined                             no-undef
+  353:33  warning  'begin' is already defined                      no-redeclare
+  354:33  warning  'end' is already defined                        no-redeclare
+  355:29  warning  'td' is not defined                             no-undef
+  359:29  warning  'td' is not defined                             no-undef
+  365:29  warning  'td' is not defined                             no-undef
+  370:37  warning  'result_html' is already defined                no-redeclare
+  371:33  warning  'td' is not defined                             no-undef
+  375:37  warning  'result_html' is already defined                no-redeclare
+  376:33  warning  'td' is not defined                             no-undef
+  388:13  warning  'field' is already defined                      no-redeclare
+  391:35  warning  'tr' is not defined                             no-undef
+  392:21  warning  'fields' is already defined                     no-redeclare
+  394:25  warning  'i' is already defined                          no-redeclare
+  395:21  warning  'tr' is not defined                             no-undef
+  395:36  warning  'td' is not defined                             no-undef
+  399:33  warning  'begin' is already defined                      no-redeclare
+  400:33  warning  'end' is already defined                        no-redeclare
+  401:29  warning  'td' is not defined                             no-undef
+  405:29  warning  'td' is not defined                             no-undef
+  411:29  warning  'td' is not defined                             no-undef
+  416:37  warning  'result_html' is already defined                no-redeclare
+  417:33  warning  'td' is not defined                             no-undef
+  421:37  warning  'result_html' is already defined                no-redeclare
+  422:33  warning  'td' is not defined                             no-undef
+  434:35  warning  'tr' is not defined                             no-undef
+  435:21  warning  'fields' is already defined                     no-redeclare
+  437:25  warning  'i' is already defined                          no-redeclare
+  438:21  warning  'tr' is not defined                             no-undef
+  438:36  warning  'td' is not defined                             no-undef
+  442:33  warning  'begin' is already defined                      no-redeclare
+  443:33  warning  'end' is already defined                        no-redeclare
+  444:29  warning  'td' is not defined                             no-undef
+  448:29  warning  'td' is not defined                             no-undef
+  454:29  warning  'td' is not defined                             no-undef
+  459:37  warning  'result_html' is already defined                no-redeclare
+  460:33  warning  'td' is not defined                             no-undef
+  464:37  warning  'result_html' is already defined                no-redeclare
+  465:33  warning  'td' is not defined                             no-undef
+  478:35  warning  'tr' is not defined                             no-undef
+  479:21  warning  'fields' is already defined                     no-redeclare
+  481:25  warning  'i' is already defined                          no-redeclare
+  482:21  warning  'tr' is not defined                             no-undef
+  482:36  warning  'td' is not defined                             no-undef
+  486:33  warning  'begin' is already defined                      no-redeclare
+  487:33  warning  'end' is already defined                        no-redeclare
+  488:29  warning  'td' is not defined                             no-undef
+  492:29  warning  'td' is not defined                             no-undef
+  498:29  warning  'td' is not defined                             no-undef
+  503:37  warning  'result_html' is already defined                no-redeclare
+  504:33  warning  'td' is not defined                             no-undef
+  508:37  warning  'result_html' is already defined                no-redeclare
+  509:33  warning  'td' is not defined                             no-undef
+  521:35  warning  'tr' is not defined                             no-undef
+  522:21  warning  'fields' is already defined                     no-redeclare
+  524:25  warning  'i' is already defined                          no-redeclare
+  525:21  warning  'tr' is not defined                             no-undef
+  525:36  warning  'td' is not defined                             no-undef
+  529:33  warning  'begin' is already defined                      no-redeclare
+  530:33  warning  'end' is already defined                        no-redeclare
+  531:29  warning  'td' is not defined                             no-undef
+  535:29  warning  'td' is not defined                             no-undef
+  541:29  warning  'td' is not defined                             no-undef
+  546:37  warning  'result_html' is already defined                no-redeclare
+  547:33  warning  'td' is not defined                             no-undef
+  551:37  warning  'result_html' is already defined                no-redeclare
+  552:33  warning  'td' is not defined                             no-undef
+  564:13  warning  'field' is already defined                      no-redeclare
+  568:35  warning  'tr' is not defined                             no-undef
+  569:21  warning  'fields' is already defined                     no-redeclare
+  571:25  warning  'i' is already defined                          no-redeclare
+  572:21  warning  'tr' is not defined                             no-undef
+  572:36  warning  'td' is not defined                             no-undef
+  576:33  warning  'begin' is already defined                      no-redeclare
+  577:33  warning  'end' is already defined                        no-redeclare
+  578:29  warning  'td' is not defined                             no-undef
+  582:29  warning  'td' is not defined                             no-undef
+  588:29  warning  'td' is not defined                             no-undef
+  593:37  warning  'result_html' is already defined                no-redeclare
+  594:33  warning  'td' is not defined                             no-undef
+  598:37  warning  'result_html' is already defined                no-redeclare
+  599:33  warning  'td' is not defined                             no-undef
+  612:35  warning  'tr' is not defined                             no-undef
+  613:21  warning  'fields' is already defined                     no-redeclare
+  615:25  warning  'i' is already defined                          no-redeclare
+  616:21  warning  'tr' is not defined                             no-undef
+  616:36  warning  'td' is not defined                             no-undef
+  620:33  warning  'begin' is already defined                      no-redeclare
+  621:33  warning  'end' is already defined                        no-redeclare
+  622:29  warning  'td' is not defined                             no-undef
+  626:29  warning  'td' is not defined                             no-undef
+  632:29  warning  'td' is not defined                             no-undef
+  637:37  warning  'result_html' is already defined                no-redeclare
+  638:33  warning  'td' is not defined                             no-undef
+  642:37  warning  'result_html' is already defined                no-redeclare
+  643:33  warning  'td' is not defined                             no-undef
+  656:35  warning  'tr' is not defined                             no-undef
+  657:21  warning  'fields' is already defined                     no-redeclare
+  659:25  warning  'i' is already defined                          no-redeclare
+  660:21  warning  'tr' is not defined                             no-undef
+  660:36  warning  'td' is not defined                             no-undef
+  664:33  warning  'begin' is already defined                      no-redeclare
+  665:33  warning  'end' is already defined                        no-redeclare
+  666:29  warning  'td' is not defined                             no-undef
+  670:29  warning  'td' is not defined                             no-undef
+  676:29  warning  'td' is not defined                             no-undef
+  681:37  warning  'result_html' is already defined                no-redeclare
+  682:33  warning  'td' is not defined                             no-undef
+  686:37  warning  'result_html' is already defined                no-redeclare
+  687:33  warning  'td' is not defined                             no-undef
+  700:35  warning  'tr' is not defined                             no-undef
+  701:21  warning  'fields' is already defined                     no-redeclare
+  703:25  warning  'i' is already defined                          no-redeclare
+  704:21  warning  'tr' is not defined                             no-undef
+  704:36  warning  'td' is not defined                             no-undef
+  708:33  warning  'begin' is already defined                      no-redeclare
+  709:33  warning  'end' is already defined                        no-redeclare
+  710:29  warning  'td' is not defined                             no-undef
+  714:29  warning  'td' is not defined                             no-undef
+  720:29  warning  'td' is not defined                             no-undef
+  725:37  warning  'result_html' is already defined                no-redeclare
+  726:33  warning  'td' is not defined                             no-undef
+  730:37  warning  'result_html' is already defined                no-redeclare
+  731:33  warning  'td' is not defined                             no-undef
+
+/home/runner/work/exp-spectrographic-analysis-speech-iiith/exp-spectrographic-analysis-speech-iiith/experiment/simulation/js/exp1-06.js
+    6:5   warning  'spect' is defined but never used               no-unused-vars
+    7:18  warning  'WaveSurfer' is not defined                     no-undef
+   27:10  warning  'loadSpect' is defined but never used           no-unused-vars
+   29:2   warning  'expVal' is not defined                         no-undef
+   33:21  warning  'WaveSurfer' is not defined                     no-undef
+   52:14  warning  'expVal' is not defined                         no-undef
+   56:10  warning  'clearcontent' is defined but never used        no-unused-vars
+   62:10  warning  'zoom' is defined but never used                no-unused-vars
+   68:10  warning  'playButton' is defined but never used          no-unused-vars
+   72:10  warning  'LoadExperiment' is defined but never used      no-unused-vars
+   76:10  warning  'hideDiv' is defined but never used             no-unused-vars
+   84:5   warning  'content1sy4' is defined but never used         no-unused-vars
+   88:10  warning  'preload' is defined but never used             no-unused-vars
+   89:16  warning  'loadStrings' is not defined                    no-undef
+   90:16  warning  'loadStrings' is not defined                    no-undef
+   91:16  warning  'loadStrings' is not defined                    no-undef
+   92:16  warning  'loadStrings' is not defined                    no-undef
+   93:19  warning  'loadStrings' is not defined                    no-undef
+   94:19  warning  'loadStrings' is not defined                    no-undef
+   95:19  warning  'loadStrings' is not defined                    no-undef
+   96:5   warning  'content4syl' is not defined                    no-undef
+   96:19  warning  'loadStrings' is not defined                    no-undef
+   97:19  warning  'loadStrings' is not defined                    no-undef
+   98:19  warning  'loadStrings' is not defined                    no-undef
+   99:19  warning  'loadStrings' is not defined                    no-undef
+  100:19  warning  'loadStrings' is not defined                    no-undef
+  101:19  warning  'loadStrings' is not defined                    no-undef
+  102:19  warning  'loadStrings' is not defined                    no-undef
+  103:19  warning  'loadStrings' is not defined                    no-undef
+  104:19  warning  'loadStrings' is not defined                    no-undef
+  107:10  warning  'setup' is defined but never used               no-unused-vars
+  108:5   warning  'noCanvas' is not defined                       no-undef
+  114:32  warning  'WaveSurfer' is not defined                     no-undef
+  162:10  warning  'loadSubword' is defined but never used         no-unused-vars
+  233:10  warning  'verify_ans' is defined but never used          no-unused-vars
+  234:32  warning  Unnecessary semicolon                           no-extra-semi
+  247:9   warning  'new_table' is assigned a value but never used  no-unused-vars
+  256:35  warning  'tr' is not defined                             no-undef
+  260:21  warning  'tr' is not defined                             no-undef
+  260:36  warning  'td' is not defined                             no-undef
+  267:29  warning  'td' is not defined                             no-undef
+  271:29  warning  'td' is not defined                             no-undef
+  277:29  warning  'td' is not defined                             no-undef
+  283:33  warning  'td' is not defined                             no-undef
+  287:37  warning  'result_html' is already defined                no-redeclare
+  288:33  warning  'td' is not defined                             no-undef
+  300:35  warning  'tr' is not defined                             no-undef
+  301:21  warning  'fields' is already defined                     no-redeclare
+  303:25  warning  'i' is already defined                          no-redeclare
+  304:21  warning  'tr' is not defined                             no-undef
+  304:36  warning  'td' is not defined                             no-undef
+  308:33  warning  'begin' is already defined                      no-redeclare
+  309:33  warning  'end' is already defined                        no-redeclare
+  310:29  warning  'td' is not defined                             no-undef
+  314:29  warning  'td' is not defined                             no-undef
+  320:29  warning  'td' is not defined                             no-undef
+  325:37  warning  'result_html' is already defined                no-redeclare
+  326:33  warning  'td' is not defined                             no-undef
+  330:37  warning  'result_html' is already defined                no-redeclare
+  331:33  warning  'td' is not defined                             no-undef
+  343:35  warning  'tr' is not defined                             no-undef
+  344:21  warning  'fields' is already defined                     no-redeclare
+  346:25  warning  'i' is already defined                          no-redeclare
+  347:21  warning  'tr' is not defined                             no-undef
+  347:36  warning  'td' is not defined                             no-undef
+  351:33  warning  'begin' is already defined                      no-redeclare
+  352:33  warning  'end' is already defined                        no-redeclare
+  353:29  warning  'td' is not defined                             no-undef
+  357:29  warning  'td' is not defined                             no-undef
+  363:29  warning  'td' is not defined                             no-undef
+  368:37  warning  'result_html' is already defined                no-redeclare
+  369:33  warning  'td' is not defined                             no-undef
+  373:37  warning  'result_html' is already defined                no-redeclare
+  374:33  warning  'td' is not defined                             no-undef
+  384:31  warning  'content4syl' is not defined                    no-undef
+  385:35  warning  'tr' is not defined                             no-undef
+  386:21  warning  'fields' is already defined                     no-redeclare
+  386:30  warning  'content4syl' is not defined                    no-undef
+  388:25  warning  'i' is already defined                          no-redeclare
+  389:21  warning  'tr' is not defined                             no-undef
+  389:36  warning  'td' is not defined                             no-undef
+  393:33  warning  'begin' is already defined                      no-redeclare
+  394:33  warning  'end' is already defined                        no-redeclare
+  395:29  warning  'td' is not defined                             no-undef
+  399:29  warning  'td' is not defined                             no-undef
+  405:29  warning  'td' is not defined                             no-undef
+  410:37  warning  'result_html' is already defined                no-redeclare
+  411:33  warning  'td' is not defined                             no-undef
+  415:37  warning  'result_html' is already defined                no-redeclare
+  416:33  warning  'td' is not defined                             no-undef
+  428:13  warning  'field' is already defined                      no-redeclare
+  431:35  warning  'tr' is not defined                             no-undef
+  432:21  warning  'fields' is already defined                     no-redeclare
+  434:25  warning  'i' is already defined                          no-redeclare
+  435:21  warning  'tr' is not defined                             no-undef
+  435:36  warning  'td' is not defined                             no-undef
+  439:33  warning  'begin' is already defined                      no-redeclare
+  440:33  warning  'end' is already defined                        no-redeclare
+  441:29  warning  'td' is not defined                             no-undef
+  445:29  warning  'td' is not defined                             no-undef
+  451:29  warning  'td' is not defined                             no-undef
+  456:37  warning  'result_html' is already defined                no-redeclare
+  457:33  warning  'td' is not defined                             no-undef
+  461:37  warning  'result_html' is already defined                no-redeclare
+  462:33  warning  'td' is not defined                             no-undef
+  474:35  warning  'tr' is not defined                             no-undef
+  475:21  warning  'fields' is already defined                     no-redeclare
+  477:25  warning  'i' is already defined                          no-redeclare
+  478:21  warning  'tr' is not defined                             no-undef
+  478:36  warning  'td' is not defined                             no-undef
+  482:33  warning  'begin' is already defined                      no-redeclare
+  483:33  warning  'end' is already defined                        no-redeclare
+  484:29  warning  'td' is not defined                             no-undef
+  488:29  warning  'td' is not defined                             no-undef
+  494:29  warning  'td' is not defined                             no-undef
+  499:37  warning  'result_html' is already defined                no-redeclare
+  500:33  warning  'td' is not defined                             no-undef
+  504:37  warning  'result_html' is already defined                no-redeclare
+  505:33  warning  'td' is not defined                             no-undef
+  518:35  warning  'tr' is not defined                             no-undef
+  519:21  warning  'fields' is already defined                     no-redeclare
+  521:25  warning  'i' is already defined                          no-redeclare
+  522:21  warning  'tr' is not defined                             no-undef
+  522:36  warning  'td' is not defined                             no-undef
+  526:33  warning  'begin' is already defined                      no-redeclare
+  527:33  warning  'end' is already defined                        no-redeclare
+  528:29  warning  'td' is not defined                             no-undef
+  532:29  warning  'td' is not defined                             no-undef
+  538:29  warning  'td' is not defined                             no-undef
+  543:37  warning  'result_html' is already defined                no-redeclare
+  544:33  warning  'td' is not defined                             no-undef
+  548:37  warning  'result_html' is already defined                no-redeclare
+  549:33  warning  'td' is not defined                             no-undef
+  561:35  warning  'tr' is not defined                             no-undef
+  562:21  warning  'fields' is already defined                     no-redeclare
+  564:25  warning  'i' is already defined                          no-redeclare
+  565:21  warning  'tr' is not defined                             no-undef
+  565:36  warning  'td' is not defined                             no-undef
+  569:33  warning  'begin' is already defined                      no-redeclare
+  570:33  warning  'end' is already defined                        no-redeclare
+  571:29  warning  'td' is not defined                             no-undef
+  575:29  warning  'td' is not defined                             no-undef
+  581:29  warning  'td' is not defined                             no-undef
+  586:37  warning  'result_html' is already defined                no-redeclare
+  587:33  warning  'td' is not defined                             no-undef
+  591:37  warning  'result_html' is already defined                no-redeclare
+  592:33  warning  'td' is not defined                             no-undef
+  604:13  warning  'field' is already defined                      no-redeclare
+  608:35  warning  'tr' is not defined                             no-undef
+  609:21  warning  'fields' is already defined                     no-redeclare
+  611:25  warning  'i' is already defined                          no-redeclare
+  612:21  warning  'tr' is not defined                             no-undef
+  612:36  warning  'td' is not defined                             no-undef
+  616:33  warning  'begin' is already defined                      no-redeclare
+  617:33  warning  'end' is already defined                        no-redeclare
+  618:29  warning  'td' is not defined                             no-undef
+  622:29  warning  'td' is not defined                             no-undef
+  628:29  warning  'td' is not defined                             no-undef
+  633:37  warning  'result_html' is already defined                no-redeclare
+  634:33  warning  'td' is not defined                             no-undef
+  638:37  warning  'result_html' is already defined                no-redeclare
+  639:33  warning  'td' is not defined                             no-undef
+  652:35  warning  'tr' is not defined                             no-undef
+  653:21  warning  'fields' is already defined                     no-redeclare
+  655:25  warning  'i' is already defined                          no-redeclare
+  656:21  warning  'tr' is not defined                             no-undef
+  656:36  warning  'td' is not defined                             no-undef
+  660:33  warning  'begin' is already defined                      no-redeclare
+  661:33  warning  'end' is already defined                        no-redeclare
+  662:29  warning  'td' is not defined                             no-undef
+  666:29  warning  'td' is not defined                             no-undef
+  672:29  warning  'td' is not defined                             no-undef
+  677:37  warning  'result_html' is already defined                no-redeclare
+  678:33  warning  'td' is not defined                             no-undef
+  682:37  warning  'result_html' is already defined                no-redeclare
+  683:33  warning  'td' is not defined                             no-undef
+  696:35  warning  'tr' is not defined                             no-undef
+  697:21  warning  'fields' is already defined                     no-redeclare
+  699:25  warning  'i' is already defined                          no-redeclare
+  700:21  warning  'tr' is not defined                             no-undef
+  700:36  warning  'td' is not defined                             no-undef
+  704:33  warning  'begin' is already defined                      no-redeclare
+  705:33  warning  'end' is already defined                        no-redeclare
+  706:29  warning  'td' is not defined                             no-undef
+  710:29  warning  'td' is not defined                             no-undef
+  716:29  warning  'td' is not defined                             no-undef
+  721:37  warning  'result_html' is already defined                no-redeclare
+  722:33  warning  'td' is not defined                             no-undef
+  726:37  warning  'result_html' is already defined                no-redeclare
+  727:33  warning  'td' is not defined                             no-undef
+  740:35  warning  'tr' is not defined                             no-undef
+  741:21  warning  'fields' is already defined                     no-redeclare
+  743:25  warning  'i' is already defined                          no-redeclare
+  744:21  warning  'tr' is not defined                             no-undef
+  744:36  warning  'td' is not defined                             no-undef
+  748:33  warning  'begin' is already defined                      no-redeclare
+  749:33  warning  'end' is already defined                        no-redeclare
+  750:29  warning  'td' is not defined                             no-undef
+  754:29  warning  'td' is not defined                             no-undef
+  760:29  warning  'td' is not defined                             no-undef
+  765:37  warning  'result_html' is already defined                no-redeclare
+  766:33  warning  'td' is not defined                             no-undef
+  770:37  warning  'result_html' is already defined                no-redeclare
+  771:33  warning  'td' is not defined                             no-undef
+
+/home/runner/work/exp-spectrographic-analysis-speech-iiith/exp-spectrographic-analysis-speech-iiith/experiment/simulation/js/exp3-micro.js
+  22:20  warning  'WaveSurfer' is not defined  no-undef
+  30:11  warning  'WaveSurfer' is not defined  no-undef
+
+/home/runner/work/exp-spectrographic-analysis-speech-iiith/exp-spectrographic-analysis-speech-iiith/experiment/simulation/js/jquery.js
+  2:58     warning  'module' is not defined                                                    no-undef
+  2:73     warning  'module' is not defined                                                    no-undef
+  2:6372   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:6583   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:6598   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:7074   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:7306   warning  Empty block statement                                                      no-empty
+  2:7871   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:9868   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:11292  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:11888  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:11926  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:12330  warning  Empty block statement                                                      no-empty
+  2:12893  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:13205  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:15004  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:15242  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:15390  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:15728  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:16409  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:18795  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:18884  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:18944  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:20204  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:20779  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:20887  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:22906  warning  Unnecessary escape character: \[                                           no-useless-escape
+  2:22908  warning  Unnecessary escape character: \.                                           no-useless-escape
+  2:30599  warning  Empty block statement                                                      no-empty
+  2:31841  warning  Empty block statement                                                      no-empty
+  3:4837   warning  Empty block statement                                                      no-empty
+  3:7838   warning  Empty block statement                                                      no-empty
+  3:10458  warning  Empty block statement                                                      no-empty
+  3:19747  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  3:19874  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  3:22019  warning  Empty block statement                                                      no-empty
+  3:26143  warning  Move function declaration to function body root                            no-inner-declarations
+  3:29909  warning  Empty block statement                                                      no-empty
+  4:1882   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:4336   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:10429  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:12325  warning  Empty block statement                                                      no-empty
+  4:13624  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:14068  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:14482  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:15585  warning  Unnecessary escape character: \/                                           no-useless-escape
+  4:16076  warning  'ActiveXObject' is not defined                                             no-undef
+  4:16460  warning  Unnecessary escape character: \/                                           no-useless-escape
+  4:16472  warning  Unnecessary escape character: \/                                           no-useless-escape
+  4:16771  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:19260  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:21151  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:26098  warning  Empty block statement                                                      no-empty
+  4:26175  warning  Empty block statement                                                      no-empty
+  4:31348  warning  'define' is not defined                                                    no-undef
+  4:31360  warning  'define' is not defined                                                    no-undef
+
+/home/runner/work/exp-spectrographic-analysis-speech-iiith/exp-spectrographic-analysis-speech-iiith/experiment/simulation/js/npm.js
+   2:1  warning  'require' is not defined  no-undef
+   3:1  warning  'require' is not defined  no-undef
+   4:1  warning  'require' is not defined  no-undef
+   5:1  warning  'require' is not defined  no-undef
+   6:1  warning  'require' is not defined  no-undef
+   7:1  warning  'require' is not defined  no-undef
+   8:1  warning  'require' is not defined  no-undef
+   9:1  warning  'require' is not defined  no-undef
+  10:1  warning  'require' is not defined  no-undef
+  11:1  warning  'require' is not defined  no-undef
+  12:1  warning  'require' is not defined  no-undef
+  13:1  warning  'require' is not defined  no-undef
+
+✖ 517 problems (0 errors, 517 warnings)
+  0 errors and 2 warnings potentially fixable with the `--fix` option.
+
